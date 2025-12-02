@@ -1,0 +1,6 @@
+a,b,c,d,e=input().split()
+a = int(a)
+b = int(b)
+c = str(c)
+d = float(d)
+e = float(e)
